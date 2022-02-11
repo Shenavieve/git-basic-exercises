@@ -1,0 +1,74 @@
+    1  python --version
+    2  cd
+    3  python my_script.py
+    4  python
+    5  cd git-basic-exercises
+    6  ls -a
+    7  cd .
+    8  ls
+    9  git init
+   10  ls -a
+   11  cd .git
+   12  ls -a
+   13  cd objects
+   14  ls -a
+   15  cd 30
+   16  ls -a
+   17  cd ...
+   18  cd ~
+   19  git-basic-exercises
+   20  cd git-basic-exercises
+   21  hit status
+   22  git status
+   23  touch.README.md
+   24  touch README.md
+   25  ls -a
+   26  git status
+   27  git log
+   28  git add README.md
+   29  git status
+   30  ls
+   31  cd git-basic-exercises
+   32  ls
+   33  git branch
+   34  ls -a
+   35  git status
+   36  git log
+   37  git init
+   38  git branch
+   39  ls -a
+   40  git add README.md
+   41  git status
+   42  git commit -m "initial commit"
+   43  git log
+   44  nano README.md
+   45  cat README.md
+   46  git status
+   47  git add README.md
+   48  git commit -m "second commit"
+   49  git log
+   50  nano README.md
+   51  cat README.md
+   52  git status
+   53  git add README.md
+   54  git commit -m "third commit"
+   55  git log
+   56  git checkout c027819b0005fc1b7a1e898a31627b9b6b9fa27f
+   57  cat README.md
+   58  git checkout master
+   59  cat README.md
+   60  git branch milkshake-flavours
+   61  git branch
+   62  git checkout milkshake-flavours
+   63  nano milkshakes.md
+   64  git status
+   65  git add milkshakes.md
+   66  git commit -m "added initial flavours"
+   67  git checkout master
+   68  git status
+   69  git log
+   70  git checkout master
+   71  git branch history
+   72  git log
+   73  git branch
+   74  history>history.txt
