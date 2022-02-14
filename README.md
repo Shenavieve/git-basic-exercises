@@ -1,1 +1,1 @@
-# Git-hub-exercises
+# Git-basic-exercises
