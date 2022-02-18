@@ -1,0 +1,221 @@
+    1  python --version
+    2  cd
+    3  python my_script.py
+    4  python
+    5  cd git-basic-exercises
+    6  ls -a
+    7  cd .
+    8  ls
+    9  git init
+   10  ls -a
+   11  cd .git
+   12  ls -a
+   13  cd objects
+   14  ls -a
+   15  cd 30
+   16  ls -a
+   17  cd ...
+   18  cd ~
+   19  git-basic-exercises
+   20  cd git-basic-exercises
+   21  hit status
+   22  git status
+   23  touch.README.md
+   24  touch README.md
+   25  ls -a
+   26  git status
+   27  git log
+   28  git add README.md
+   29  git status
+   30  cd git-basic-exercises
+   31  cd a-repo-to-clone
+   32  ls -a
+   33  cd a-repo-to-clone
+   34  cd ..
+   35  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+   36  git branch a-repo-to-clone
+   37  cd a-repo-to-clone
+   38  git branch
+   39  git log
+   40  git branch -a
+   41  git branch project/git-basic-exercises
+   42  git branch 
+   43  git checkout project/git-basic-exercises
+   44  git remote -v
+   45  git log 
+   46  cd ..
+   47  cd git-basic-exercises
+   48  git log 
+   49  cd ..
+   50  mkdir this-will-be-another-repo
+   51  cd this-will-be-another-repo
+   52  git init
+   53  touch README.md
+   54  git add README.md
+   55  git commit -m 
+   56  git commit -m "added README"
+   57  cd ..
+   58  cd git-basic-exercises
+   59  git log
+   60  touch ignore-me.db
+   61  git status
+   62  nano .gitignore
+   63  git status
+   64  mkdir large-directory-that-should-be-local-only
+   65  cd large-directory-that-should-be-local-only
+   66  touch README.md
+   67  cd ..
+   68  git status
+   69  nano .gitignore
+   70  git status
+   71  git add .gitignore
+   72  git commit -m "added .gitignore"
+   73  git push
+   74  git push https://github.com/Shenavieve/git-basic-exercises.git/
+   75  pwd
+   76  cd ../
+   77  pwd
+   78  ls
+   79  cd home
+   80  pwd
+   81  cd /internal storage/Code
+   82  cd internal storage/Code
+   83  cd internalstorage/Code
+   84  cd Code
+   85  pwd
+   86  cd /data/data/com.termux/files/home/Internalstorage/Code
+   87  cd /data/data/com.termux/files/home/Internal storage/Code
+   88  cd /data/data/com.termux/files/home/InternalStorage/Code
+   89  pwd
+   90  cd ..
+   91  pwd
+   92  ls
+   93  cd com.termux
+   94  ls
+   95  cd files
+   96  ls
+   97  cd home
+   98  ls
+   99  ls storage
+  100  cd storage
+  101  cd shared
+  102  ls
+  103  cd Code
+  104  ls
+  105  git init
+  106  gut status
+  107  git add .
+  108  ls
+  109  gut status
+  110  git status
+  111  git commit -m "2nd commit"
+  112  ls status
+  113  git status
+  114  git commit -m "2nd commit"
+  115  git remote add origin https://github.com/Shenavieve/codelevel0.git
+  116  git push -u origin master
+  117  cd ..
+  118  cd ...
+  119  cd ..
+  120  cd master
+  121  ls -a
+  122  git checkout master
+  123  ls
+  124  cd storage
+  125  ls
+  126  cd shared
+  127  ls
+  128  git status
+  129  cd Code
+  130  ls
+  131  gut status
+  132  git status
+  133  git branch
+  134  git merge master
+  135  cd ..
+  136  ls
+  137  cd git-basic-exercises
+  138  ls
+  139  git branch ContinuedRepo
+  140  cd ContinuedRepo
+  141  git checkout ContinuedRepo
+  142  ls -a
+  143  nano README.md
+  144  git status
+  145  git add README.md
+  146  git status
+  147  checkout master
+  148  git checkout master
+  149  git merge ContinuedRepo
+  150  git push
+  151  git pull
+  152  pwd
+  153  git merge history
+  154  nano README.md
+  155  git add README.md
+  156  git commit -m "booya"
+  157  git merge history
+  158  git merge
+  159  git status
+  160  git add README.md
+  161  git status
+  162  git merge
+  163  git commit -m "booya"
+  164  git merge
+  165  git status
+  166  git push
+  167  git pull -rebase origin master
+  168  git pull origin master
+  169  gut push origin master
+  170  git push origin master
+  171  git pull --rebase origin master
+  172  git status
+  173  git add README.md
+  174  git status
+  175  git add README.md
+  176  status
+  177  git status
+  178  git pull --rebase origin master
+  179  git commit -m "booya"
+  180  git pull --rebase origin master
+  181  git rebase --continue
+  182  git merge
+  183  git push
+  184  git push master history
+  185  git remote -v
+  186  git push
+  187  git status
+  188  git log
+  189  git pull
+  190  gut pull --force
+  191  git pull --force
+  192  nano README.md
+  193  git status
+  194  git add README.md
+  195  git commit -m "edited README"
+  196  git push
+  197  git push https://github.com/Shenavieve/git-basic-exercises.git
+  198  git status
+  199  cat
+  200  cat -help
+  201  cat --help
+  202  git status
+  203  git push
+  204  ls
+  205  cd ~
+  206  cd git-basic-exercises
+  207  git branch
+  208  git branch checkout ContinuedRepo
+  209  ls
+  210  ls -a
+  211  lblcu
+  212  a4
+  213  ls
+  214  cd git-basuc-exercises
+  215  cd git-basic-exercises
+  216  git branch
+  217  git checkout history
+  218  ls
+  219  git status
+  220  git checkout master
+  221  history>history.txt
